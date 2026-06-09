@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "usuario": "UsuarioPedagogico",
+  "titulo": "Fallo en el servidor local",
+  "descripcion": "El puerto asignado no responde a las solicitudes de prueba externas",
+  "severidad": "Alta",
+  "fecha": "2026-06-08"
+}

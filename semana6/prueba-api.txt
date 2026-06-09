@@ -1,0 +1,7 @@
+Prueba de funcionamiento de la API local - Semana 6
+
+1. Ruta /registro:
+Al realizar una petición POST a la ruta http://localhost:3000/registro enviando un objeto JSON con los datos del usuario, el servidor responde correctamente con un estado funcional y devuelve un objeto JSON confirmando que el registro fue recibido con éxito a través de req.body.
+
+2. Ruta /incidencia:
+Al realizar una petición POST a la ruta http://localhost:3000/incidencia enviando los datos del reporte ficticio, el servidor procesa la información y retorna un mensaje de éxito con los datos capturados ("Incidencia registrada"), mostrando el tipo y la descripción en la terminal de manera pedagógica.
